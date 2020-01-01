@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/sai/ros-ws/airsim_ws/devel/include/**",
+        "/home/sai/ros-ws/melodic/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/sai/ros-ws/airsim_ws/src/airsim_ros_pkgs/include/**",
+        "/home/sai/ros-ws/mavros_moveit_ws/src/uav_navigation/frontier_based_exploration/include/**",
+        "/home/sai/ros-ws/mavros-ws/src/mavros/libmavconn/include/**",
+        "/home/sai/ros-ws/mavros-ws/src/mavros/mavros/include/**",
+        "/home/sai/ros-ws/mavros_moveit_ws/src/mavros_moveit/mavros_moveit_actions/include/**",
+        "/home/sai/ros-ws/mavros_moveit_ws/src/mavros_moveit/mavros_moveit_avoidance/include/**",
+        "/home/sai/ros-ws/mavros_moveit_ws/src/mavros_moveit/mavros_moveit_controller_manager/include/**",
+        "/home/sai/ros-ws/mavros_moveit_ws/src/mavros_moveit/mavros_moveit_controllers/include/**",
+        "/home/sai/ros-ws/mavros_moveit_ws/src/mavros_moveit/mavros_moveit_utils/include/**",
+        "/home/sai/ros-ws/mavros-ws/src/mavros/mavros_msgs/include/**",
+        "/home/sai/ros-ws/mavros_moveit_ws/src/mavros_moveit/moveit_external_octomap_updater_plugin/include/**",
+        "/home/sai/ros-ws/mavros-ws/src/mavros/test_mavros/include/**",
+        "/home/sai/ros-ws/mavros_moveit_ws/src/uav_navigation/uav_navigation/include/**",
+        "/home/sai/ros-ws/mavros_moveit_ws/src/uav_navigation/vfh3d/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}
